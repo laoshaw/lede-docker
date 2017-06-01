@@ -1,7 +1,7 @@
 About
 =====
 
-Simple script to import rootfs tarball from LEDE (rc2 for now).
+Simple script to import rootfs tarball from LEDE.
 
 Change your HUBUSER to adapt it to your needs.
 
